@@ -32,8 +32,6 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 
-<br />
-
 ### My stats:
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexpvieira&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
