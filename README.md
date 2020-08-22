@@ -43,3 +43,7 @@
 [linkedin]: https://linkedin.com/in/alexpvieira
 [behance]: https://www.behance.net/alvtech
 [take5]: https://take5lms.com
+
+### Recent activity:
+
+<!--START_SECTION:activity-->
