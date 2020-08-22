@@ -32,11 +32,13 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 
-### My stats:
+<details>
+  <summary>:zap: Github Stats</summary>
 
 [![Alex's github stats](https://github-readme-stats.avieira.vercel.app/api?username=alexpvieira&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=alexpvieira&hide=java,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 [website]: https://alexvieira.dev
 [twitter]: https://twitter.com/alexpvieira
@@ -44,6 +46,9 @@
 [behance]: https://www.behance.net/alvtech
 [take5]: https://take5lms.com
 
-### Recent activity:
+<details>
+  <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
