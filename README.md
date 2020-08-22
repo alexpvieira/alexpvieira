@@ -36,7 +36,7 @@
 
 [![Alex's github stats](https://github-readme-stats.avieira.vercel.app/api?username=alexpvieira&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpvieira&hide=java,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=alexpvieira&hide=java,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://alexvieira.dev
 [twitter]: https://twitter.com/alexpvieira
