@@ -47,3 +47,7 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
+1. ❗️ Reopened issue [#3389](https://github.com//frontendbr/vagas/issues/3389) in [frontendbr/vagas](https://github.com//frontendbr/vagas)
+2. ❗️ Closed issue [#3389](https://github.com//frontendbr/vagas/issues/3389) in [frontendbr/vagas](https://github.com//frontendbr/vagas)
+3. ❗️ Opened issue [#3389](https://github.com//frontendbr/vagas/issues/3389) in [frontendbr/vagas](https://github.com//frontendbr/vagas)
+<!--END_SECTION:activity-->
