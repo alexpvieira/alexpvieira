@@ -50,8 +50,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#198](https://github.com/quasarframework/quasar-ui-qcalendar/issues/198) in [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar)
-2. 🗣 Commented on [#7886](https://github.com/quasarframework/quasar/issues/7886) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-3. ❗️ Closed issue [#3389](https://github.com/frontendbr/vagas/issues/3389) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+1. ❗️ Closed issue [#198](https://github.com/quasarframework/quasar-ui-qcalendar/issues/198) in [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar)
+2. 🗣 Commented on [#198](https://github.com/quasarframework/quasar-ui-qcalendar/issues/198) in [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar)
+3. ❗️ Opened issue [#198](https://github.com/quasarframework/quasar-ui-qcalendar/issues/198) in [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar)
 <!--END_SECTION:activity-->
 </details>
