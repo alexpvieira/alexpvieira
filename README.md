@@ -3,7 +3,7 @@
 ## I'm a very curious person who happens to write code for living!
 - 👨‍💻 I'm currently working as a front-end developer @[Take 5][take5]
 - 🕵️‍♂️ I also act as a tech lead helping out our developers
-- 🇧🇷 I'm a brazilian, married, 32 years old and working with IT for almost 14 years now...
+- 🇧🇷 I'm a brazilian, married, 33 years old and working with IT for almost 15 years now...
 
 ### My networks:
 
