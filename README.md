@@ -1,9 +1,8 @@
 ### Hello, I'm [Alex][website] 🤓
 
 ## I'm a very curious person who happens to write code for living!
-- 👨‍💻 I'm currently working as a front-end developer @[Take 5][take5]
-- 🕵️‍♂️ I also act as a tech lead helping out our developers
-- 🇧🇷 I'm a brazilian, married, 33 years old and working with IT for almost 15 years now...
+- 👨‍💻 I'm currently working as a front-end developer @[STX Group][stx] and living in the Netherlands 🇳🇱
+- 🇧🇷 I'm a brazilian, married, 35 years old and working with IT for almost 18 years now...
 
 ### My networks:
 
@@ -44,7 +43,7 @@
 [twitter]: https://twitter.com/alexpvieira
 [linkedin]: https://linkedin.com/in/alexpvieira
 [behance]: https://www.behance.net/alvtech
-[take5]: https://take5lms.com
+[stx]: https://stxgroup.com/
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
